@@ -1,0 +1,23 @@
+# History and ganres of popular music
+- Gospel
+- Jazz
+- Blues
+- Jamaican
+- Rap & Hip Hop
+- Breakbeat
+- EDM: Drum'n'Bass
+- EDM: Hardcore
+- EDM: Techno
+- EDM: House
+- EDM: Trance
+- Ambient
+- Industrial
+- Metal
+- Rock: Rock'n'Roll
+- Rock: Classic Rock & Golden Age Rock
+- Rock: Punk Rock/New Wave
+- Rock: Alternative Rock/Indie
+- Rock: Contemporary Rock
+- Pop
+- Country
+- R&B
