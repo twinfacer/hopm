@@ -1,5 +1,5 @@
 ## Metal
-- [1970] Classic Metal
+- [[1970] Classic Metal](#[1970] Classic Metal)
 - [1974] Progressive Metal
 - [1977] Power Metal
 - [1977] Glam metal/Hair Metal/Pop Metal
