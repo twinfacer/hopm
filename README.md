@@ -2,7 +2,7 @@
 - ![Gospel](../master/gospel.md)
 - ![Jazz](../master/jazz.md)
 - Blues
-- Jamaican
+- ![Jamaican](../master/jamaican.md)
 - Rap & Hip Hop
 - Breakbeat
 - EDM: Drum'n'Bass
