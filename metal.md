@@ -2,7 +2,7 @@
 - [[1970] Classic Metal](#1970-Classic-Metal)
 - [[1974] Progressive Metal](#1974-Progressive-Metal)
 - [[1977] Power Metal](#1977-Power-Metal)
-- [[1977] Glam metal/Hair Metal/Pop Metal](#1977-Glam metalHair-MetalPop-Metal)
+- [[1977] Glam metal/Hair Metal/Pop Metal](1977-glam-metalhair-metalpop-metal)
 - [[1979] NWOBHM (New Wave of British Heavy Metal)](1979-nwobhm-new-wave-of-british-heavy-metal)
 - [[1982] Trash Metal](#1982-Trash-Metal)
 - [[1982] Extreme Metal (Black I & Speed)](#1982-extreme-metal-black-i--speed)
