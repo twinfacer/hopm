@@ -1,6 +1,6 @@
 # History and ganres of popular music
-- Gospel
-- Jazz
+- ![Gospel](../master/gospel.md)
+- ![Jazz](../master/jazz.md)
 - Blues
 - Jamaican
 - Rap & Hip Hop
@@ -11,8 +11,8 @@
 - EDM: House
 - EDM: Trance
 - Ambient
-- Industrial
-- Metal
+- ![Industrial](../master/industrial.md)
+- ![(Heavy) Metal](../master/metal.md)
 - Rock: Rock'n'Roll
 - Rock: Classic Rock & Golden Age Rock
 - Rock: Punk Rock/New Wave
