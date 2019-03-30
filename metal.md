@@ -1,20 +1,20 @@
-## Metal
-- [[1970] Classic Metal](#[1970] Classic Metal)
-- [1974] Progressive Metal
-- [1977] Power Metal
-- [1977] Glam metal/Hair Metal/Pop Metal
-- [1979] NWOBHM (New Wave of British Heavy Metal)
-- [1982] Trash Metal
-- [1982] Extreme Metal (Black I & Speed)
-- [1983] Crossover Trash
-- [1984] Doom Metal
-- [1986] Death Metal
-- [1986] Grindcore
-- [1989] Stoner Metal/Rock & Sludge Metal/Rock
-- [1990] Gothic Metal & Symphonic Metal
-- [1991] Black Metal
-- [1995] Nu Metal & Rap Metal
-- [1999] Metalcore/NWOAHM (New Wave Of American Heavy Metal)
+## (Heavy) Metal
+- [[1970] Classic Metal](#1970-Classic-Metal)
+- [[1974] Progressive Metal](#1974-Progressive-Metal)
+- [[1977] Power Metal](#1977-Power-Metal)
+- [[1977] Glam metal/Hair Metal/Pop Metal](#1977-Glam metalHair-MetalPop-Metal)
+- [[1979] NWOBHM (New Wave of British Heavy Metal)](1979-nwobhm-new-wave-of-british-heavy-metal)
+- [[1982] Trash Metal](#1982-Trash-Metal)
+- [[1982] Extreme Metal (Black I & Speed)](#1982-extreme-metal-black-i--speed)
+- [[1983] Crossover Trash](#1983-Crossover-Trash)
+- [[1984] Doom Metal](#1984-Doom-Metal)
+- [[1986] Death Metal](#1986-Death-Metal)
+- [[1986] Grindcore](#1986-Grindcore)
+- [[1989] Stoner Metal/Rock & Sludge Metal/Rock](#1989-stoner-metalrock--sludge-metalrock)
+- [[1990] Gothic Metal & Symphonic Metal](#1990-gothic-metal--symphonic-metal)
+- [[1991] Black Metal](#1991-Black-Metal)
+- [[1995] Nu Metal & Rap Metal](#1995-nu-metal--rap-metal)
+- [[1999] Metalcore/NWOAHM (New Wave Of American Heavy Metal)](#1999-metalcorenwoahm-new-wave-of-america-heavy-metal)
 
 Although for most people **Heavy Metal** is (correctly) a harder and faster type of Rock, the genre is actually a continuation of “the Devil’s music”: **Blues**. After Metal’s experimental phase during the seventies (read more at **Classic Metal**), it lost a lot of its **Blues** influences and evolved rapidly into a variety of different styles. Two aspects of **Blues** have always remained however: lyrics about sorrow, nihilism, pain, tragedy, and a more concealed subtext revolving the Devil (though for **Blues** this was more a reputation than an actual theme). Heavy Metal expanded on these aspects in an obsessive manner. Death, destruction, corpses, zombies, Satan, pentagrams, evil themes, lots of black, torture, sharp and gothic artwork, and a hand symbol that both resembles the Devil’s horns and the letter “M”. These are the main elements of stereotypical **Metal** artwork/culture that have become so dominant that anything else is almost an exception to the rule. The visual language of **Metal** – a symbolism of anything dark or evil – transcends into corresponding fashion: black T-shirts with Metal artwork, black leather, wristbands with sharp pins, long sleazy hair, black jeans and of course: metal.
 
