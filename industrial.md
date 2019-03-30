@@ -1,4 +1,4 @@
-## Indusctrial
+## Industrial
 - [1970] Krautrock
 - [1975] Avant-Garde Industrial
 - [1979] Gothic Rock & Deathrock
