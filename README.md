@@ -1,16 +1,16 @@
 # History and ganres of popular music
 - ![Gospel](../master/gospel.md)
 - ![Jazz](../master/jazz.md)
-- Blues
+- ![Blues](../master/blues.md)
 - ![Jamaican](../master/jamaican.md)
 - Rap & Hip Hop
-- Breakbeat
+- EDM: Breakbeat
 - EDM: Drum'n'Bass
 - EDM: Hardcore
 - EDM: Techno
 - EDM: House
 - EDM: Trance
-- Ambient
+- ![Downtempo/Ambient](../master/downtempo.md)
 - ![Industrial](../master/industrial.md)
 - ![(Heavy) Metal](../master/metal.md)
 - Rock: Rock'n'Roll
