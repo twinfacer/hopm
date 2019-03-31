@@ -6,7 +6,7 @@
 - [[1968] Hardrock](#1968-Hardrock)
 - [[1969] Progressive Rock, Art-Rock & Symphonic Rock](#1969-Progressive-Rock-Art-Rock--Symphonic-Rock)
 - [[1970] Krautrock](../master/industrial.md#1970-krautrock)
-- [[1971] Glam Rock/Glitter Rock/Shock Rock](#1971-Glam-RockGlitter RockShock-Rock)
+- [[1971] Glam Rock/Glitter Rock/Shock Rock](#1971-Glam-Rock--Glitter Rock--Shock-Rock)
 - [[1971] Southern Rock](#1971-Southern-Rock)
 - [[1974] Heartland Rock & A.O.R. (Adult Oriented Rock)](#1974-Heartland-Rock--AOR-Adult-Oriented-Rock)
 
