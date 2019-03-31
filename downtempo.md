@@ -7,7 +7,7 @@
 - [[1973] Ambient](#1973-Ambient)
 - [[1978] Bit Music/Chiptune](#1978-Bit-MusicChiptune)
 - [[1979] New Age](#1979-New-Age)
-- [1984] Dark Ambient/Dark Industrial
+- ![[1984] Dark Ambient/Dark Industrial](../master/industrial.md#1984-dark-ambientdark-industrial)
 - [[1989] Ambient House/Chill-out](#1989-Ambient-HouseChill-out)
 - [1992] Ambient Techno & IDM(Intelligent Dance Music)
 - [1992] Trip-Hop
