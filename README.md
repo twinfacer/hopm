@@ -14,7 +14,7 @@
 - [Industrial](../master/industrial.md)
 - [(Heavy) Metal](../master/metal.md)
 - [Rock: Rock'n'Roll](../master/rocknroll.md)
-- Rock: Classic Rock & Golden Age Rock
+- [Rock: Classic Rock & Golden Age Rock](../master/classic_rock.md)
 - Rock: Punk Rock/New Wave
 - Rock: Alternative Rock/Indie
 - Rock: Contemporary Rock
