@@ -1,9 +1,9 @@
 ## Downtempo/Ambient
 - [[1948] Musique Concrète](#1948-Musique-Concrète)
-- [[1953] Lounge/Exotica/Space Age Pop](#1953-Lounge-Exotica-Space-Age-Pop)
+- [[1953] Lounge/Exotica/Space Age Pop](#1953-LoungeExoticaSpace-Age-Pop)
 - [[1959] Minimalism](#1959-Minimalism)
 - [[1962] Muzak/Elevator Music](#[1962-MuzakElevator-Music)
-- [[1972] Synth/Electronica](#1972-Synth-Electronica)
+- [[1972] Synth/Electronica](#1972-SynthElectronica)
 - [[1973] Ambient](#1973-Ambient)
 - [[1978] Bit Music/Chiptune](1978-Bit-MusicChiptune)
 - [[1979] New Age](#1979-New-Age)
@@ -12,10 +12,10 @@
 - [1992] Ambient Techno & IDM(Intelligent Dance Music)
 - [1992] Trip-Hop
 - [[1995] Ambient Breaks & Illbient](#1995-AmbientBreaks--Illbient)
-- [[1998] Glitch/Click'n'Cuts](#1998-GlitchClick-n-Cuts)
-- [[2003] Digital Minimalism/Lowercase](#2003-Digital-Minimalism-Lowercase)
+- [[1998] Glitch/Click'n'Cuts](#1998-GlitchClicknCuts)
+- [[2003] Digital Minimalism/Lowercase](#2003-Digital-MinimalismLowercase)
 - [2006] Minimal Wave/Synth & Minimal Industrial (revival)
-- [[2012] Synthwave&Vaporwave](#2012-Synthwave--Vaporwave)
+- [[2012] Synthwave&Vaporwave](#2012-SynthwaveVaporwave)
 
 **Downtempo** is a collection of primarily electronic music with an average tempo lower than usual (below 110 bpm), hence its name. Because of such a low tempo, the music is generally not meant for dancing and seldom live performed. **Downtempo** is music to listen to in a natural (read: non-musical) environment. **Downtempo** music is often featured in film soundtracks, on albums for home listening, in public places, or… at the university. Early **Downtempo** evolved out of academic experiments with the first electronic music instruments. This can even be traced back to the 1920s, when the very first electronic sound was produced, thanks to Léon Theremin and his homonymous instrument. To these researchers, **Downtempo** was not particularly slow. Only many decades later, after the arrival of much faster electronic dance genres, was the term “Downtempo” applied to this music. Sometimes **Downtempo** is simply referred to as “Electronic” as opposed to (Electronic) Dance (Music).
 
