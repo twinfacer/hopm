@@ -1,9 +1,9 @@
 ## Gospel
-- [1870] (Negro) Spirituals & Worksongs
-- [1947] Modern Gospel
-- [1890] Ragtime & Stride
-- [1880] Traditional Gospel
-- [1968] Relipop & Relirock / CCM (Contemporary Christian Music)
+- [[1870] (Negro) Spirituals & Worksongs](#1870-Negro-Spirituals--Worksongs)
+- [[1947] Modern Gospel](#1947-Modern-Gospel)
+- [[1880] Traditional Gospel](#1880-Traditional-Gospel)
+- [[1890] Ragtime & Stride](#1890Ragtime--Stride)
+- [[1968] Relipop & Relirock / CCM (Contemporary Christian Music)](#1968-Relipop--Relirock--CCM-Contemporary-Christian-Music))
 
 The very first popular music genres came from a variety of influences but the foundations were laid in the United States. Before **Blues** and **Jazz** developed themselves, a number of “proto-genres” responsible for that development, were already known and popular throughout the country: **Ragtime**, **Stride**, **Jug Bands**, and **Skiffle**. But the most important one was **Gospel**. **Gospel** evolved from the fragile voice from black slaves into an undeniably huge genre with many subgenres. **Gospel** shakes off pretty fast its racial dimension: black and white join hand in hand to sing the song of God. Because **Gospel** is more about faith than about race; about believing in a better world and future and connecting different souls.
 
