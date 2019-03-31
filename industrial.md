@@ -1,6 +1,6 @@
 ## Industrial
 - [[1970] Krautrock](#1970-Krautrock)
-- [[1975] Avant-Garde Industrial](#1975-AvantGarde-Industrial)
+- [[1975] Avant-Garde Industrial](#1975-Avant-Garde-Industrial)
 - [[1979] Gothic Rock & Deathrock](#1979-Gothic-Rock--Deathrock)
 - [[1982] EBM](#1982-EBM)
 - [[1982] Noise Music](#1982-Noise-Music)
@@ -9,6 +9,7 @@
 - [[1989] Industrial Rock/Industrial Metal](#1989-Industrial-RockIndustrial-Metal)
 - [[1990] Electro Industrial/Aggreppo](#1990-Electro-IndustrialAggreppo)
 - [[1999] Futurepop](#1999-Futurepop)
+- [[2006] Minimal Wave/Synth & Minimal Industrial (Revival)](#2006-Minimal-WaveSynth--Minimal-Industrial-Revival)
 
 Industrial is a genre in between Rock and Electronic music. It evolved out of the German post-war underground scene in the seventies, and has been experimental and obscure ever since. Gothic music, following out of “Post-Punk Depression”, shares many characteristics with Industrial and both subcultures have become intertwined into a state of Siamese twins. Author John Savage outlines five different aspects of Industrial music that show a great deal of insight into this rather secluded genre: organizational autonomy, access to info, use of synth and anti-music, extra-musical elements, and shock tactics.
 
