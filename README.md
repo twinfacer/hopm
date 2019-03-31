@@ -9,7 +9,7 @@
 - EDM: Hardcore
 - EDM: Techno
 - EDM: House
-- EDM: Trance
+- ![EDM: Trance](../master/trance.md)
 - ![Downtempo/Ambient](../master/downtempo.md)
 - ![Industrial](../master/industrial.md)
 - ![(Heavy) Metal](../master/metal.md)
