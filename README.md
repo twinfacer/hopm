@@ -8,7 +8,7 @@
 - EDM: Drum'n'Bass
 - EDM: Hardcore
 - EDM: Techno
-- [EDM: House](..master/house.md)
+- [EDM: House](../master/house.md)
 - [EDM: Trance](../master/trance.md)
 - [Downtempo/Ambient](../master/downtempo.md)
 - [Industrial](../master/industrial.md)
