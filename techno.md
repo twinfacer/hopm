@@ -6,7 +6,7 @@
 - [[1992] Ambient Techno & IDM (Intelligent Dance Music)](#1992-Ambient-Techno--IDM-Intelligent-Dance-Music)
 - [[1994] Industrial Techno & Schranz I](#1994-Industrial-Techno--Schranz-I)
 - [[1994] Minimal Techno](#1994-Minimal-Techno)
-- [[1996] Tech House](../master/house.md##1996-Tech-House)
+- [[1996] Tech House](../master/house.md#1996-Tech-House)
 - [[1998] Tech Trance](#1998-Tech-Trance)
 - [[2000] Hardtechno (Schranz II)](#2000-Hardtechno-Schranz-II)
 - [[2005] Ghetto House, Ghettotech & Juke](../master/house.md#2005-Ghetto-House-Ghettotech--Juke)
