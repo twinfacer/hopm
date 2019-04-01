@@ -7,7 +7,7 @@
 - EDM: Breakbeat
 - EDM: Drum'n'Bass
 - EDM: Hardcore
-- EDM: Techno
+- [EDM: Techno](../master/techno.md)
 - [EDM: House](../master/house.md)
 - [EDM: Trance](../master/trance.md)
 - [Downtempo/Ambient](../master/downtempo.md)
