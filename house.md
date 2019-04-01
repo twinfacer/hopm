@@ -2,7 +2,7 @@
 - [[1984] Chicago House & Garage House](#1984-Chicago-House--Garage-House)
 - [[1986] Acid House](#1986-Acid-House)
 - [[1989] Ambient House/Chill-out](../master/downtempo.md#1989-Ambient-HouseChill-out)
-- [[1989] Hip House & Eurohouse](#1989-Hip-House--Eurohouse)
+- [[1989] Hip House & Eurodance](#1989-Hip-House--Eurodance)
 - [[1993] Deep House](#1993-Deep-House)
 - [[1993] Dream House/Trance & Ibiza House/Trance](#1993-Dream-HouseTrance--Ibiza-HouseTrance)
 - [[1994] Progressive House](#1994-Progressive-House)
