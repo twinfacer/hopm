@@ -6,7 +6,7 @@
 - Rap & Hip Hop
 - EDM: Breakbeat
 - EDM: Drum'n'Bass
-- EDM: Hardcore
+- [EDM: Hardcore](../master/hardcore.md)
 - [EDM: Techno](../master/techno.md)
 - [EDM: House](../master/house.md)
 - [EDM: Trance](../master/trance.md)

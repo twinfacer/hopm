@@ -7,7 +7,7 @@
 - [[1997] Eurotrance & Vocal Trance](#1997-Eurotrance--Vocal-Trance)
 - [[1998] Tech Trance](../master/techno.md#1998-Tech-Trance)
 - [[1999] Hardtrance](#1999-Hardtrance)
-- [1999] UK Hardcore & Freeform / Trancecore & Acidcore
+- [[1999] UK Hardcore & Freeform / Trancecore & Acidcore](../master/hardcore.md#1999-UK-Hardcore--Freeform--Trancecore--Acidcore)
 - [[2001] Uplifting Trance/Epic Trance](#2001-Uplifting-TranceEpic-Trance)
 - [[2006] Neo Trance](#2006-Neo-Trance)
 
