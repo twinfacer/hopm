@@ -4,7 +4,7 @@
 - [[1989] Ambient House/Chill-out](../master/downtempo.md#1989-Ambient-HouseChill-out)
 - [[1989] Hip House & Eurodance](#1989-Hip-House--Eurodance)
 - [[1993] Deep House](#1993-Deep-House)
-- [[1993] Dream House/Trance & Ibiza House/Trance](#1993-Dream-HouseTrance--Ibiza-HouseTrance)
+- [[1993] Dream House/Trance & Ibiza House/Trance](../master/trance.md#1993-Dream-HouseTrance--Ibiza-HouseTrance)
 - [[1994] Progressive House](#1994-Progressive-House)
 - [[1996] Tech House](#1996-Tech-House)
 - [[1996] NRG, Hard NRG & (UK) Hard House](../master/trance.md#1996-NRG-Hard-NRG--UK-Hard-House)
