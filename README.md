@@ -15,7 +15,8 @@
 - [(Heavy) Metal](../master/metal.md)
 - [Rock: Rock'n'Roll](../master/rocknroll.md)
 - [Rock: Classic Rock & Golden Age Rock](../master/classic_rock.md)
-- Rock: Punk Rock/New Wave
+- [Rock: Punk Rock/New Wave](../master/punk_wave.md)
+- [Rock: Hardcore Punk](../master/hardcore_punk.md)
 - Rock: Alternative Rock/Indie
 - Rock: Contemporary Rock
 - Pop
