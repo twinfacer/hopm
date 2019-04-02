@@ -4,7 +4,7 @@
 - [Blues](../master/blues.md)
 - [Jamaican](../master/jamaican.md)
 - Rap & Hip Hop
-- EDM: Breakbeat
+- [EDM: Breakbeat](../master/breakbeat.md)
 - [EDM: Drum'n'Bass](../master/drumnbass.md)
 - [EDM: Hardcore](../master/hardcore.md)
 - [EDM: Techno](../master/techno.md)
