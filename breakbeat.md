@@ -1,7 +1,7 @@
 ## Breakbeat
 - [[1982] Electro](#1982-Electro)
 - [[1986] Freestyle & Breakdance](#1986--Freestyle--Breakdance)
-- [[1988] Florida Breaks (& Funky Breaks)](#1988-Florida-Breaks--Funky Breaks)
+- [[1988] Florida Breaks (& Funky Breaks)](#1988-Florida-Breaks--Funky-Breaks)
 - [[1991] Breakbeat Hardcore & Piano House (Rave II)](../master/hardcore.md#1991-Breakbeat-Hardcore--Piano-House-Rave-II)
 - [[1992] Trip Hop](#1992-Trip-Hop)
 - [[1994] Chemical Breaks & Big Beat](#1994-Chemical-Breaks--Big-Beat)
