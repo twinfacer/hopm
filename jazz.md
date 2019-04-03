@@ -9,7 +9,7 @@
 - [[1953] Hard Bop](#1953-Hard-Bop)
 - [[1957] Soul Jazz / Jazz Funk](#1957-Soul-Jazz--Jazz-Funk)
 - [[1959] Free Jazz / Avant-Garde Jazz](#1959-Free-Jazz--Avant-Garde-Jazz)
-- [[1970] Fusion / Jazz Rock](1970-Fusion--Jazz-Rock)
+- [[1970] Fusion / Jazz Rock](#1970-Fusion--Jazz-Rock)
 - [[1975] Smooth Jazz](#1975-Smooth-Jazz)
 - [[1988] Acid Jazz / Jazzdance](#1988-Acid-Jazz--Jazzdance)
 - [[1995] Nu Jazz / Electro Jazz](#1995-Nu-Jazz--Electro-Jazz)
@@ -52,7 +52,7 @@ Experimentations between these two genres existed long before Modern Jazz, so it
 
 As a response, Third Stream’s definition was broadened to include crossovers to World Music, yet it remains one of the lesser known Jazz genres. A different successor at the end of the fifties, Modal Jazz, improvises on a series of scales instead of chords. Like the “Math Rock of Jazz”, Modal Jazz is defined (solely) by its highly technical, rational and mathematical structure.
 
-### [1941] New Orleans & Dixieland Revival
+### [1941] New Orleans & Dixieland Jazz Revivals
 **New Orleans & Dixieland Revival** is hardly a new genre, as the name implies. But - being listed in nearly every summary or genealogy of **Jazz** - its inclusion on the Carta is almost mandatory. Furthermore, the difference with the original genre is not zero. The success of **Swing** created a sort of nostalgia for early **Jazz** with small bands as many **Jazz** musicians were fed up with the predictable template of **Big Band** and its extravert performances. This back to the roots movement was almost strictly performed by white artists instead of the black bands of the original genre. Because of this minor racial difference **Jazz** became known by a much larger (white) audience, drawing many white aspirant players into **Jazz** and reviving the first “white Jazz”: **Chicago Jazz**. The **New Orleans & Dixieland Revival** is characterized by simple melodies and harmonies, another consequence of its backlash against **Big Band Jazz**.
 
 ### [1945] Bebop
