@@ -10,7 +10,7 @@
 - [[1995] (Dirty) South Rap, Crunk & Snap](#1995-Dirty-South-Rap-Crunk--Snap)
 - [[1996] East Coast Gangsta Rap](#1996-East-Coast-Gangsta-Rap)
 - [[2003] Trap & Drill](#2003-Trap--Drill)
-- [[2004] Urban Breaks (Nu R&B II)](#2004-Urban-Breaks-Nu-RB-II))
+- [[2004] Urban Breaks (Nu R&B II)](#2004-Urban-Breaks-Nu-RB-II)
 - [[2005] Glitchhop & Wonky](../master/breakbeat.md#2005--Glitchhop--Wonky)
 
 **Hip Hop** is not a genre, but a huge subculture encompassing a whole lot more than just music. Hip Hop consists of what is known as “the Four Elements”: breakdancing, graffiti, turntablism (mixing and scratching, the work of the DJ), and rapping (the work of the MC); a harmony of dance, visual art, spoken word, and technology. But **Hip Hop** also has its own customs, an idiosyncratic “code”, enriching and defining the subculture: gang visual language for a start, or an obsession with clean sneakers to show respect for personal property when rappers could barely afford a second pair of shoes. And let’s not forget “Bling Bling”: often misinterpreted for status symbols, these heavy, exuberant golden necklaces and rings represent ancient African warrior tribe symbols. Because **Hip Hop** is first and foremost a powerful stance.

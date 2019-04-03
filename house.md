@@ -13,7 +13,7 @@
 - [[2005] Ghetto House, Ghettotech & Juke](#2005-Ghetto-House-Ghettotech--Juke)
 - [[2006] Electro House & Dutch House](#2006-Electro-House--Dutch-House)
 - [[2007] Fidget House & Complextro](#2007-Fidget-House--Complextro)
-- [2007] NU Disco & Funktronica
+- [[2007] Nu Disco & Funktronica](../master/rnb.md#2007-Nu-Disco--Funktronica)
 - [[2010] Moombahton](#2010-Moombahton)
 
 **House**, daughter of mother **Disco**, is the stereotypical feel-good dance floor music with a steady beat. The most important word in the previous sentence is “feel-good”. **House** sets itself apart from other **Dance** genres by providing groove and soul. **House** is digital **Rhythm ‘n’ Blues** with a feeling of playfulness, warmth and compassion. Without her focus on positive vibes, she becomes another super-genre.

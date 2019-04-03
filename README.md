@@ -21,4 +21,4 @@
 - Rock: Contemporary Rock
 - Pop
 - Country
-- R&B
+- [R&B](../master/rnb.md)
