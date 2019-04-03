@@ -3,7 +3,7 @@
 - [Jazz](../master/jazz.md)
 - [Blues](../master/blues.md)
 - [Jamaican](../master/jamaican.md)
-- Rap & Hip Hop
+- [Rap & Hip Hop](../master/rap.md)
 - [EDM: Breakbeat](../master/breakbeat.md)
 - [EDM: Drum'n'Bass](../master/drumnbass.md)
 - [EDM: Hardcore](../master/hardcore.md)
