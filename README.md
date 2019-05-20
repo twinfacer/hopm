@@ -1,4 +1,4 @@
-# History and ganres of popular music
+# History and genres of popular music
 - [Gospel](../master/gospel.md)
 - [Jazz](../master/jazz.md)
 - [Blues](../master/blues.md)
